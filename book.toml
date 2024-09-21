@@ -1,0 +1,10 @@
+[book]
+authors = ["Liangdi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "开发者日记"
+
+
+[output.html]
+cname = "dev.404.net.cn"
