@@ -1,7 +1,7 @@
 
 dev:
-    mdbook serve
+    mdbook serve -d docs
 
 build:
-    mdbook build
+    mdbook build -d docs
 
