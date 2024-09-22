@@ -89,7 +89,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">关于本项目</a></li><li class="chapter-item expanded "><a href="research-phase/index.html"><strong aria-hidden="true">1.</strong> 调研阶段</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="research-phase/product-research/index.html"><strong aria-hidden="true">1.1.</strong> 产品思考</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="research-phase/product-research/product-positioning.html"><strong aria-hidden="true">1.1.1.</strong> 产品定位</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="MVP-phase/index.html"><strong aria-hidden="true">2.</strong> MVP 阶段</a></li><li class="chapter-item expanded "><a href="operation-phase/index.html"><strong aria-hidden="true">3.</strong> 运营阶段</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="thanks.html">感谢</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">关于本项目</a></li><li class="chapter-item expanded affix "><li class="part-title">目录</li><li class="chapter-item expanded "><a href="research-phase/index.html"><strong aria-hidden="true">1.</strong> 调研阶段</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="research-phase/product-research/index.html"><strong aria-hidden="true">1.1.</strong> 产品思考</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="research-phase/product-research/product-positioning.html"><strong aria-hidden="true">1.1.1.</strong> 产品定位</a></li><li class="chapter-item expanded "><a href="research-phase/product-research/independent-software-missing-a-platform.html"><strong aria-hidden="true">1.1.2.</strong> 独立软件缺一个平台吗?</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="MVP-phase/index.html"><strong aria-hidden="true">2.</strong> MVP 阶段</a></li><li class="chapter-item expanded "><a href="operation-phase/index.html"><strong aria-hidden="true">3.</strong> 运营阶段</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">杂项</li><li class="chapter-item expanded "><a href="resources/index.html"><strong aria-hidden="true">4.</strong> 资源汇总</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="resources/independent-developer-sites.html"><strong aria-hidden="true">4.1.</strong> 国内独立开发者网站</a></li></ol></li><li class="chapter-item expanded "><li class="spacer"></li><li class="chapter-item expanded affix "><a href="thanks.html">感谢</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -194,6 +194,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
