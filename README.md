@@ -1,6 +1,9 @@
 # 项目起源
 做了 10 多年的软件开发，一直以供应商的身份参与工作或者项目，过程中一直思考是否需要做个产品，在 2024 年中旬,内外因加持下，这份心终于被激发起来，开始了这个项目。
 
+项目使用 `mdbook`工具编写，发布在 Github Pages 上
+<a target="_blank" rel="noopener noreferrer" href="https://daily.liangdi.me/">在线阅读</a>
+
 # 源起
 几日前发在 V2EX 的文章 <a target="_blank" rel="noopener noreferrer" href="https://www.v2ex.com/t/1073889">关于一个 PC 独立软件分发平台的想法，类似独立软件的 steam</a>
 
@@ -19,7 +22,3 @@
 // TODO
 ## 运营期
 // TODO
-
-# 项目在线阅读
-项目使用 `mdbook`工具编写，发布在 Github Pages 上
-<a target="_blank" rel="noopener noreferrer" href="https://daily.liangdi.me/">在线阅读</a>
