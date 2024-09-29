@@ -14,11 +14,15 @@
     - [需求拆解](./research-phase/requirement-slicing/README.md)
         - [公共运行时和AI模型](./research-phase/requirement-slicing/common-runtime-and-ai-models.md)
         - [下载功能设计](./research-phase/requirement-slicing/download-function-design.md)
+    - [营销系统设计](./research-phase/marketing-system-design/README.md)
+    - [平台推广方案](./research-phase/platform-promotion/README.md)
 - [MVP 阶段](./MVP-phase/README.md)
 - [运营阶段](./operation-phase/README.md)
 
 ------
 # 杂项
+- [问题汇总](./problem-records/README.md)
+    - [CDN 价格问题](./problem-records/cdn-price-problems.md)
 - [资源汇总](./resources/README.md)
     - [国内独立开发者网站](./resources/independent-developer-sites.md)
     - [其他网站](./resources/other-websites.md)
