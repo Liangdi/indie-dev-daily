@@ -13,7 +13,7 @@
         - [优秀开源项目分发](./research-phase/market-related/open-source-software-distribution.md)
     - [需求拆解](./research-phase/requirement-slicing/README.md)
         - [公共运行时和AI模型](./research-phase/requirement-slicing/common-runtime-and-ai-models.md)
-        
+        - [下载功能设计](./research-phase/requirement-slicing/download-function-design.md)
 - [MVP 阶段](./MVP-phase/README.md)
 - [运营阶段](./operation-phase/README.md)
 

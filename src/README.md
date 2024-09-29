@@ -8,6 +8,9 @@
 
 准备分为一下几个阶段，依据最小成本原则，如果某一阶段觉得有问题，随时停掉项目，本仓库也就归于废弃。
 
+项目使用 `mdbook`工具编写，发布在 Github Pages 上
+<a target="_blank" rel="noopener noreferrer" href="https://daily.liangdi.me/">在线阅读</a>
+
 ## 调研期
 - 周期： 3-4 周, 开始时间 2024 年 9 月 20日
 - 目标: 通过调研分析，明确用户市场，合作伙伴，确定可行性，为下一阶段提供参考依据，如果不行，直接废弃，停止项目。
@@ -19,7 +22,3 @@
 // TODO
 ## 运营期
 // TODO
-
-# 项目在线阅读
-项目使用 `mdbook`工具编写，发布在 Github Pages 上
-<a target="_blank" rel="noopener noreferrer" href="https://daily.liangdi.me/">在线阅读</a>
