@@ -12,6 +12,8 @@
         - [需求收集](./research-phase/market-related/market-research.md)
         - [优秀开源项目分发](./research-phase/market-related/open-source-software-distribution.md)
     - [需求拆解](./research-phase/requirement-slicing/README.md)
+        - [公共运行时和AI模型](./research-phase/requirement-slicing/common-runtime-and-ai-models.md)
+        
 - [MVP 阶段](./MVP-phase/README.md)
 - [运营阶段](./operation-phase/README.md)
 
