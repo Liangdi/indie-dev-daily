@@ -11,6 +11,7 @@
     - [市场相关](./research-phase/market-related/README.md)
         - [需求收集](./research-phase/market-related/market-research.md)
         - [优秀开源项目分发](./research-phase/market-related/open-source-software-distribution.md)
+        - [参考产品/网站/模式](./research-phase/market-related/reference-products-and-patterns.md)
     - [需求拆解](./research-phase/requirement-slicing/README.md)
         - [公共运行时和AI模型](./research-phase/requirement-slicing/common-runtime-and-ai-models.md)
         - [下载功能设计](./research-phase/requirement-slicing/download-function-design.md)
