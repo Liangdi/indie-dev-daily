@@ -18,6 +18,7 @@
     - [营销系统设计](./research-phase/marketing-system-design/README.md)
     - [平台推广方案](./research-phase/platform-promotion/README.md)
 - [MVP 阶段](./MVP-phase/README.md)
+    - [开源软件分发选定](./MVP-phase/open-source-software-distribution-decisions/README.md)
 - [运营阶段](./operation-phase/README.md)
 
 ------
