@@ -27,3 +27,10 @@
 
 ### 内网管理（网卡唤醒）
 内网网卡唤醒主机
+
+### 微信机器人
+
+- 参考： <a href="https://github.com/wechatferry/wechatferry">https://github.com/wechatferry/wechatferry</a>
+- 参考: <a href="https://github.com/tom-snow/wechat-windows-versions">https://github.com/tom-snow/wechat-windows-versions</a>
+- 参考: <a href="https://github.com/lich0821/WeChatFerry">https://github.com/lich0821/WeChatFerry</a>
+

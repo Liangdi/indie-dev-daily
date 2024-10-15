@@ -3,3 +3,5 @@
 
 ## 预选列表
 - <a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">Stirling-PDF</a>
+- <a href="https://github.com/mulaRahul/keyviz" target="_blank">keyviz</a>
+- <a href="https://github.com/Blinue/Magpie" target="_blank">Magpie</a>
